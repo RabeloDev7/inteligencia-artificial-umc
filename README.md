@@ -32,7 +32,7 @@ Os arquivos `.ipynb` correspondem aos notebooks desenvolvidos no Google Colab e 
 
 Novos notebooks e atividades serão adicionados conforme o desenvolvimento da disciplina.
 
-##Atividade 01 
+## Atividade 01 
 link do Colab: https://colab.research.google.com/drive/1wtfbnQ6MACQcJzwu0PCBRdWEJvl24jhV?usp=sharing
 
 ## Tecnologias e ferramentas
