@@ -22,6 +22,7 @@ Novos notebooks e atividades serão adicionados conforme o desenvolvimento da di
 
 ## Atividades 
  Atividade_01 - https://colab.research.google.com/drive/1wtfbnQ6MACQcJzwu0PCBRdWEJvl24jhV?usp=sharing
+ 
  Atividade_02 - https://colab.research.google.com/drive/1GK53oCZGfHwD1FneGp5ZFbsk9XWMip0J?usp=sharing
 
 ## Tecnologias e ferramentas
