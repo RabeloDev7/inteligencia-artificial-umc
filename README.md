@@ -10,19 +10,7 @@ As atividades têm como objetivo aplicar conceitos de programação, lógica e a
 
 ## Conteúdo
 
-Os notebooks presentes neste repositório reúnem os exercícios propostos durante a disciplina. Entre os conteúdos abordados estão:
-
-- Variáveis e tipos de dados;
-- Estruturas condicionais;
-- Estruturas de repetição;
-- Listas e dicionários;
-- Manipulação de strings;
-- Funções;
-- Algoritmos de busca e ordenação;
-- Matrizes;
-- Manipulação de dados;
-- Criptografia e Cifra de César;
-- Outros conceitos e atividades propostos ao longo da disciplina.
+Os notebooks presentes neste repositório reúnem os exercícios propostos durante a disciplina.
 
 Cada exercício contém comentários e explicações referentes à lógica utilizada para a resolução da atividade, conforme as orientações da disciplina.
 
@@ -34,6 +22,7 @@ Novos notebooks e atividades serão adicionados conforme o desenvolvimento da di
 
 ## Atividades 
  Atividade_01 - https://colab.research.google.com/drive/1wtfbnQ6MACQcJzwu0PCBRdWEJvl24jhV?usp=sharing
+ Atividade_02 - https://colab.research.google.com/drive/1GK53oCZGfHwD1FneGp5ZFbsk9XWMip0J?usp=sharing
 
 ## Tecnologias e ferramentas
 
