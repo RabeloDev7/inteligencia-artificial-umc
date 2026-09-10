@@ -25,6 +25,9 @@ Novos notebooks e atividades serão adicionados conforme o desenvolvimento da di
  
  Atividade_02 - https://colab.research.google.com/drive/1GK53oCZGfHwD1FneGp5ZFbsk9XWMip0J?usp=sharing
 
+Atividade_SVM_Kaggle - https://www.kaggle.com/code/rabelo7/atividade-iris-dataset-svm
+
+
 ## Tecnologias e ferramentas
 
 - Python
