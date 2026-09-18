@@ -27,6 +27,8 @@ Novos notebooks e atividades serão adicionados conforme o desenvolvimento da di
 
 Atividade_SVM_Kaggle - https://www.kaggle.com/code/rabelo7/atividade-iris-dataset-svm
 
+Summit - https://www.kaggle.com/code/rabelo7/phishing-svm
+
 
 ## Tecnologias e ferramentas
 
