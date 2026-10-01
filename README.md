@@ -29,6 +29,7 @@ Atividade_SVM_Kaggle - https://www.kaggle.com/code/rabelo7/atividade-iris-datase
 
 Summit - https://www.kaggle.com/code/rabelo7/phishing-svm
 
+Atividade Arvore de Decisão, Floresta Aleatória e Boosting - https://www.kaggle.com/code/rabelo7/arvore-floresta-boosting-iris
 
 ## Tecnologias e ferramentas
 
