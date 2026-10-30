@@ -37,6 +37,7 @@ FISHMORPH - https://colab.research.google.com/drive/139tB5uw_amZ-90kUq77qUhQhj3F
 
 - Python
 - Google Colab
+- Kaggle
 - GitHub
 
 ## Informações acadêmicas
