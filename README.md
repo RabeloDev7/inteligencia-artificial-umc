@@ -33,6 +33,10 @@ Atividade Arvore de Decisão, Floresta Aleatória e Boosting - https://www.kaggl
 
 FISHMORPH - https://colab.research.google.com/drive/139tB5uw_amZ-90kUq77qUhQhj3F6f4Yu?usp=sharing 
 
+AutoML: Aprendizagem de Máquina Automatizada (Arquivo JSON no repositório) 
+
+Atividade Prática — Machine Learning: Clustering com K-Means -  https://colab.research.google.com/drive/1jmm7kgeR5-3Lp1UJx8ha-paShhemHbK1?usp=sharing
+
 ## Tecnologias e ferramentas
 
 - Python
